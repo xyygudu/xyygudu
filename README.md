@@ -1,9 +1,9 @@
 
-<div style="float:left;">
+<div>
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xyygudu&show_icons=true" />
 </div>
 
-<div style="float:left;">
+<div>
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyygudu&layout=compact" />
 </div>
 <!--
