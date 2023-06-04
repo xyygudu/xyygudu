@@ -1,13 +1,11 @@
 
-<div align="center">
+<div align="center" style="float:left;">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xyygudu&show_icons=true" />
 </div>
 
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyygudu&layout=compact" />
 </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=xyygudu&theme=xcode" /> </div>
-
 <!--
 **xyygudu/xyygudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
