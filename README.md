@@ -1,11 +1,10 @@
 
-<div>
+<p <p align="center">>
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xyygudu&show_icons=true" />
-</div>
-
-<div>
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyygudu&layout=compact" />
-</div>
+</p>
+
+
 <!--
 **xyygudu/xyygudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
