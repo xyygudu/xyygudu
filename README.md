@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img width:50% src="https://github-readme-stats.vercel.app/api?username=xyygudu&show_icons=true" />
-  <img width:50%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyygudu&layout=compact" />
+  <img width:"50%" src="https://github-readme-stats.vercel.app/api?username=xyygudu&show_icons=true" />
+  <img width:"50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyygudu&layout=compact" />
 </p>
 
 
