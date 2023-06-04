@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyygudu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=xyygudu&&show_icons=true&theme=radical)" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=xyygudu&&show_icons=true" />
 </div>
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyygudu&layout=compact" />
