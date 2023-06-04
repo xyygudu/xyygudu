@@ -1,7 +1,7 @@
 
 <p align="center">
   <img class="stats" src="https://github-readme-stats.vercel.app/api?username=xyygudu&show_icons=true" />
-  <img  style="height:stats.height;width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyygudu&layout=compact" />
+  <img  style="height:stats.height;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyygudu&layout=compact" />
 </p>
 
 
